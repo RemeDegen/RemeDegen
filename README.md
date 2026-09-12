@@ -1,5 +1,6 @@
 <p align="center"><img src="banner.jpg" alt="" width="100%"></p>
 
+<h1 align="center">remedegen</h1>
 <p align="center"><code>machine learning / language models / finance x ai</code></p>
 <p align="center"><sub>now</sub> <b>building dimensionnews.ai</b></p>
 
