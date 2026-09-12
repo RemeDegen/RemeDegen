@@ -1,4 +1,4 @@
-<p align="center"><img src="banner-d.jpg" alt="" width="100%"></p>
+<p align="center"><img src="banner-e.jpg" alt="" width="100%"></p>
 
 <h1 align="center">remedegen</h1>
 <p align="center"><code>machine learning / language models / finance x ai</code></p>
