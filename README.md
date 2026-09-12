@@ -13,7 +13,7 @@
 
 I'm **Reme**. Final-year computer engineering student. I train language models on my own data and build the system around them until someone is actually using it.
 
-**dimensionnews.ai** is what I am building now: a terminal that matches breaking news to prediction markets.
+**dimensionnews.ai** is what I am building now: a terminal and Telegram push service that matches breaking news to prediction markets.
 
 ## Start here
 
